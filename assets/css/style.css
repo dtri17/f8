@@ -151,7 +151,7 @@ html {
     bằng 50% chiều rộng  */
     /* 50% width của chính nó */
     padding-top: 50%;  
-    background: url('/w3sample/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
